@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312953471541",
+    "project_id": "jivezen-6f53b",
+    "storage_bucket": "jivezen-6f53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312953471541:android:3cf7020d1a3a202419277c",
+        "android_client_info": {
+          "package_name": "com.example.bus_topology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB83Yz4HvWZeBMJXvKamedwv5DjMIdDvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
